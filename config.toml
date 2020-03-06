@@ -1,0 +1,19 @@
+baseURL = "https://visket.now.sh/"
+languageCode = "ja-JP"
+DefaultContentLanguage = "ja"
+hasCJKLanguage = true
+title = "Visket"
+googleAnalytics = "UA-158885575-2"
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsStyle = "monokai"
+
+[Menus]
+  main = [
+    {Name = "Repository", URL = "https://github.com/visket-lang/visket"}
+  ]
+
+[params]
+  author = "arata-nvm"
+  description = "The Programming Language"
+  themeColor = "theme-base-00"
