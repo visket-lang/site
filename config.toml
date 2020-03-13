@@ -10,6 +10,7 @@ pygmentsStyle = "monokai"
 
 [Menus]
   main = [
+    {Name = "Playground", URL = "https://play-visket.now.sh"},
     {Name = "Repository", URL = "https://github.com/visket-lang/visket"}
   ]
 
