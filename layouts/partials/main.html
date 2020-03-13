@@ -5,7 +5,7 @@
     <p>内容は開発中のものです。仕様は予告なく変更される場合があります。</p>
     <h2>TOC</h2>
     {{ range $index, $element := where (.Site.RegularPages.ByParam "sec") "Section" "in" .Site.Params.mainSections }}
-        {{ .Title }}
+        <p class="toc-title">{{ .Title }}</p>
         {{ .TableOfContents }}
     {{ end }}
     {{ range $index, $element := where (.Site.RegularPages.ByParam "sec") "Section" "in" .Site.Params.mainSections }}
