@@ -212,7 +212,7 @@ for var i = 0; i < 10; i += 1 {
 
 }
 
-// 7h15 15 4 br0w53r cr45h3r
+// Browser crasher!!!
 for ;; {}
 ```
 
