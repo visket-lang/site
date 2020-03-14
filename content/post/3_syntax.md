@@ -11,7 +11,7 @@ sec: 3
 ```
 fun struct module import
 include var return if else
-while for in new  ref val
+while for in new ref val
 ```
 
 ## 変数
