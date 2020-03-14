@@ -1,4 +1,4 @@
-baseURL = "https://visket.now.sh/"
+baseURL = "https://visket-lang.now.sh/"
 languageCode = "ja-JP"
 DefaultContentLanguage = "ja"
 hasCJKLanguage = true
